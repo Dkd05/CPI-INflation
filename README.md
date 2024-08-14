@@ -1,1 +1,1 @@
-# CPI-INflation
+# CPI-Inflation
