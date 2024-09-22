@@ -1,4 +1,4 @@
-**India CPI Inflation Case Study**
+***India CPI Inflation Case Study****
 
 **Overview**: In India, the Consumer Price Index (CPI) is used to measure inflation, and it
 involves a fixed basket of goods and services. This basket is comprehensive and
@@ -52,4 +52,10 @@ For the purpose of this analysis, focus only on the imported oil price fluctuati
 for years 2021 to 2023 (Month-on-month)
 Identify trends in oil price change with change in inflation prices of all the
 categories and identify the category whose inflation prices strongly changes with
-fluctuations in imported oil price (Hint: you can use =correl function)
+fluctuations in imported oil price (Hint: you can use =correl function).
+
+**Tools and various concept involved in this Analysis: -**
+
+1. Advance MS Excel and the formulas like VLOOKUP,TRANSPOSE,SUMIFS,AVERAGEIFS,etc are used.
+2. Statistical concepts like MOVING AVERAGE, MEAN, MEDIAN, STANDARD DEVIATION are also implemented.
+3. Lastly, for visualization, various charts and graphs are used to make the analysis more presentable.
